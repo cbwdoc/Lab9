@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OK Browser</string>
+    <!-- should change based on language -->
+
+    <string name="prev">&lt;</string>
+    <string name="next">&gt;</string>
+    <string name="go">Go</string>
+    <string name="newTab">+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
